@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.cubsfun.co.uk/sitemap.xml
