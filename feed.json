@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.cubsfun.co.uk/steal-the-bacon.html",
+            "url": "https://www.cubsfun.co.uk/steal-the-bacon.html",
+            "title": "Steal the Bacon",
+            "summary": "Steal The Bacon Steal the bacon is an exciting form of tag.",
+            "content_html": "<div class=\"elementor-element elementor-element-2226e95f elementor-widget elementor-widget-heading\" data-id=\"2226e95f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n<div class=\"elementor-widget-container\">\n<h2 class=\"elementor-heading-title elementor-size-default\">Steal The Bacon</h2>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-10d4a033 elementor-widget elementor-widget-text-editor\" data-id=\"10d4a033\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p>Steal the bacon is an exciting form of tag. You won’t need bacon but you will need something that players want to grab and “steal.”</p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-550c5da elementor-widget elementor-widget-text-editor\" data-id=\"550c5da\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p><strong>Supplies Needed (optional):<br></strong><strong>Something to be used as “Bacon” (baton, bean bag, shirt, stick, etc.)</strong></p>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-bb7d260 elementor-widget elementor-widget-text-editor\" data-id=\"bb7d260\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n<div class=\"elementor-widget-container\">\n<p><strong>How To Play:<br></strong>1. In a large field or basketball court split the players into teams. The amount of teams will depend on how many players you have. (I think the more teams, the more fun it is to play) You should have at least 5 players on a team.</p>\n<span id=\"ezoic-pub-ad-placeholder-919\" data-method=\"placement-service\"></span>\n<p>2. Give each player on a team a number. For example, if there are 5 players on Team #1, give each player a number 1 through 5. Team #2 you will also give each player a number 1 through 5 and so on.</p>\n<p>3. All teams will be on one side of the field behind a boundary line.</p>\n<p>4. The leader of the game will place the “bacon” further down the field.</p>\n<span id=\"ezoic-pub-ad-placeholder-920\" data-method=\"placement-service\"></span>\n<p>5. The leader will call out a number and all of the players that have been given that number will race to capture the “bacon”. The first person to grab it will have to race back to their team without being tagged by the other players on the field.</p>\n<p>6. Once someone has stolen the “bacon”, the other players on the field should try and tag them before they get back to their team.  The round ends when they have been tagged or made it safely back to their team.</p>\n<p>7. If the person makes it safely back to their team, the team receives 2 points. If the person with the bacon is tagged, then the the team that tagged them, receives 1 point.</p>\n<span id=\"ezoic-pub-ad-placeholder-921\" data-method=\"placement-service\"></span>\n<p>8. Play continues until you reach the decided upon final number.</p>\n</div>\n</div>",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-01T11:39:52+01:00",
+            "date_modified": "2025-05-01T11:41:17+01:00"
+        },
+        {
             "id": "https://www.cubsfun.co.uk/2025-games.html",
             "url": "https://www.cubsfun.co.uk/2025-games.html",
             "title": "2025 Games",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2024-04-19T14:18:45+01:00",
             "date_modified": "2024-04-19T14:18:45+01:00"
-        },
-        {
-            "id": "https://www.cubsfun.co.uk/17ship-shore.html",
-            "url": "https://www.cubsfun.co.uk/17ship-shore.html",
-            "title": "17.Ship, Shore",
-            "summary": "One end of the hall is designated ship and one end is&hellip;",
-            "content_html": "<p><br><br>One end of the hall is designated ship and one end is designated shore. The leader shouts ship or shore and the players run to that end of the hall. The leader tries to catch the player out by, for example, pointing at ship when calling shore, or by calling ship when the players are already at ship. The last player to reach the end called or if a player moves from the end they are at when that end is called, is out. The leader introduces new concepts into the game such as:<br><br>− Captain’s Coming: The players must all stand to attention and make a salute sign. They must freeze as if the Captain is coming. If a player moves they are out.<br><br>− Sharks: The players must get themselves off the floor by what ever means necessary to avoid the sharks.<br><br>− Scrub the Decks: The players must drop to their knees and scrub the ground.<br><br>− Climb the Rigging: The players must make a ‘climbing up a ladder’ motion.<br><br>− Ballroom Dancing: The players must get into pairs and begin ballroom dancing. Suitable for Beavers</p>",
-            "author": {
-                "name": "Dave Bird"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-04-19T14:18:36+01:00",
-            "date_modified": "2024-04-19T14:18:36+01:00"
         }
     ]
 }
