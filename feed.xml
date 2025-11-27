@@ -3,7 +3,7 @@
     <title>Cubs Fun Games</title>
     <link href="https://www.cubsfun.co.uk/feed.xml" rel="self" />
     <link href="https://www.cubsfun.co.uk" />
-    <updated>2025-05-01T12:07:39+01:00</updated>
+    <updated>2025-11-27T16:38:34+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.cubsfun.co.uk/steal-the-bacon.html</id>
 
         <updated>2025-05-01T11:39:52+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Steal The Bacon Steal the bacon is an exciting form of tag.
                 ]]>
@@ -67,7 +67,7 @@
         <id>https://www.cubsfun.co.uk/2025-games.html</id>
 
         <updated>2025-01-16T11:29:06+00:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Below the Knees Move around the hut avoid being hit below the&hellip;
                 ]]>
@@ -97,7 +97,7 @@
         <id>https://www.cubsfun.co.uk/markdown-2.html</id>
 
         <updated>2024-05-09T10:04:19+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Spud Every scout is given a different ‘secret’ number, leader throws ball&hellip;
                 ]]>
@@ -1977,7 +1977,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/wide-games.html</id>
 
         <updated>2024-04-23T09:37:23+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Capture the Flag Evening game, outdoors Equipment: 2 handmade flags on staffs&hellip;
                 ]]>
@@ -2213,30 +2213,27 @@ Gear Required = LEDs,</li>
         </content>
     </entry>
     <entry>
-        <title>29.Danish 1,2,3</title>
+        <title>Danish 1,2,3</title>
         <author>
             <name>Dave Bird</name>
         </author>
         <link href="https://www.cubsfun.co.uk/29danish-123.html"/>
         <id>https://www.cubsfun.co.uk/29danish-123.html</id>
-        <media:content url="https://www.cubsfun.co.uk/media/posts/23/PXL_20240406_102325219.MP.jpg" medium="image" />
 
         <updated>2024-04-19T14:21:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://www.cubsfun.co.uk/media/posts/23/PXL_20240406_102325219.MP.jpg" alt="" />
                     Participants are paired off and asked to stand in a circle in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.cubsfun.co.uk/media/posts/23/PXL_20240406_102325219.MP.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Participants are paired off and asked to stand in a circle in 2 deep. (i.e you then have an inner and an outer circle) There are 3 commands. On the command of “1” the couple simply swap places. On command “2” all the scouts behind must go under the legs of the scout in front of them. On command “3” all the scouts behind must run around the perimeter of the circle (clockwise) back to their partner and then go under their legs and stand back up. The slowest couple on each command is out! Suitable for Cubs, Scouts and Ventures</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>28.Bucket Ball:</title>
+        <title>Bucket Ball:</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -2244,7 +2241,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/28bucket-ball.html</id>
 
         <updated>2024-04-19T14:20:41+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Participants are separated into two teams and a member of each team&hellip;
                 ]]>
@@ -2256,7 +2253,7 @@ Gear Required = LEDs,</li>
         </content>
     </entry>
     <entry>
-        <title>27.No Man’s Land:</title>
+        <title>No Man’s Land:</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -2264,7 +2261,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/27no-mans-land.html</id>
 
         <updated>2024-04-19T14:20:31+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Participants separated into two teams and two lines of chairs set across&hellip;
                 ]]>
@@ -2276,7 +2273,7 @@ Gear Required = LEDs,</li>
         </content>
     </entry>
     <entry>
-        <title>20.Scotch</title>
+        <title>Scotch</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -2284,7 +2281,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/20scotch.html</id>
 
         <updated>2024-04-19T14:19:08+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     The players run around the hall and when they are running a&hellip;
                 ]]>
@@ -2296,7 +2293,7 @@ Gear Required = LEDs,</li>
         </content>
     </entry>
     <entry>
-        <title>19.Pairs</title>
+        <title>Pairs</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -2304,7 +2301,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/19pairs.html</id>
 
         <updated>2024-04-19T14:18:58+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     The players get into pairs. They must then run around the hall,&hellip;
                 ]]>
@@ -2316,7 +2313,7 @@ Gear Required = LEDs,</li>
         </content>
     </entry>
     <entry>
-        <title>18.Numbers</title>
+        <title>Numbers</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -2324,7 +2321,7 @@ Gear Required = LEDs,</li>
         <id>https://www.cubsfun.co.uk/18numbers.html</id>
 
         <updated>2024-04-19T14:18:45+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     The players all run around the hall and when the leader shouts&hellip;
                 ]]>

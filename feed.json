@@ -5,6 +5,7 @@
     "home_page_url": "https://www.cubsfun.co.uk",
     "feed_url": "https://www.cubsfun.co.uk/feed.json",
     "user_comment": "",
+    "icon": "https://www.cubsfun.co.uk/media/website/Gemini_Generated_Image_46p8ir46p8ir46p8.png",
     "author": {
         "name": "Dave Bird"
     },
@@ -68,22 +69,21 @@
         {
             "id": "https://www.cubsfun.co.uk/29danish-123.html",
             "url": "https://www.cubsfun.co.uk/29danish-123.html",
-            "title": "29.Danish 1,2,3",
+            "title": "Danish 1,2,3",
             "summary": "Participants are paired off and asked to stand in a circle in&hellip;",
             "content_html": "<p>Participants are paired off and asked to stand in a circle in 2 deep. (i.e you then have an inner and an outer circle) There are 3 commands. On the command of “1” the couple simply swap places. On command “2” all the scouts behind must go under the legs of the scout in front of them. On command “3” all the scouts behind must run around the perimeter of the circle (clockwise) back to their partner and then go under their legs and stand back up. The slowest couple on each command is out! Suitable for Cubs, Scouts and Ventures</p>",
-            "image": "https://www.cubsfun.co.uk/media/posts/23/PXL_20240406_102325219.MP.jpg",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2024-04-19T14:21:00+01:00",
-            "date_modified": "2024-04-19T14:30:51+01:00"
+            "date_modified": "2025-11-27T16:38:09+00:00"
         },
         {
             "id": "https://www.cubsfun.co.uk/28bucket-ball.html",
             "url": "https://www.cubsfun.co.uk/28bucket-ball.html",
-            "title": "28.Bucket Ball:",
+            "title": "Bucket Ball:",
             "summary": "Participants are separated into two teams and a member of each team&hellip;",
             "content_html": "<p><br><br>Participants are separated into two teams and a member of each team stands on a chair at the opposing end of the hall to their team with a bucket in their hands. The object of the game is to throw the ball into their teams bucket to score a point. It’s a non contact game and the only way the ball can be intercepted by the other team is when its flying through the air. Also they can’t travel with the ball! Suitable for Cubs, Scouts and Ventures</p>",
             "author": {
@@ -92,12 +92,12 @@
             "tags": [
             ],
             "date_published": "2024-04-19T14:20:41+01:00",
-            "date_modified": "2024-04-19T14:20:41+01:00"
+            "date_modified": "2025-11-27T16:38:15+00:00"
         },
         {
             "id": "https://www.cubsfun.co.uk/27no-mans-land.html",
             "url": "https://www.cubsfun.co.uk/27no-mans-land.html",
-            "title": "27.No Man’s Land:",
+            "title": "No Man’s Land:",
             "summary": "Participants separated into two teams and two lines of chairs set across&hellip;",
             "content_html": "<p><br><br>Participants separated into two teams and two lines of chairs set across the hall about 3 foot apart. The object is to hit someone on the opposing team with a ball, on being hit they are out. If someone catches the ball there person who threw it is out! If the ball lands in “no mans land” its anybodies, but can’t be throw at the opposing team from no mans land! Sponge balls are best. Suitable for Cubs, Scouts and Ventures</p>",
             "author": {
@@ -106,12 +106,12 @@
             "tags": [
             ],
             "date_published": "2024-04-19T14:20:31+01:00",
-            "date_modified": "2024-04-19T14:20:31+01:00"
+            "date_modified": "2025-11-27T16:38:18+00:00"
         },
         {
             "id": "https://www.cubsfun.co.uk/20scotch.html",
             "url": "https://www.cubsfun.co.uk/20scotch.html",
-            "title": "20.Scotch",
+            "title": "Scotch",
             "summary": "The players run around the hall and when they are running a&hellip;",
             "content_html": "<p><br><br>The players run around the hall and when they are running a tennis ball is introduced into the mix. When a player catches the ball in their hands they shout ‘Scotch’. At this point all other players must freeze. The player with the ball in their hands can turn by pivoting on one foot but cannot move otherwise. They must throw the ball at someone and try and hit them to get them out. Once the ball has left the players hands all the other players can move again and dodge the ball being thrown at them. If a player is hit by the ball they are out.</p>",
             "author": {
@@ -120,12 +120,12 @@
             "tags": [
             ],
             "date_published": "2024-04-19T14:19:08+01:00",
-            "date_modified": "2024-04-19T14:19:08+01:00"
+            "date_modified": "2025-11-27T16:38:24+00:00"
         },
         {
             "id": "https://www.cubsfun.co.uk/19pairs.html",
             "url": "https://www.cubsfun.co.uk/19pairs.html",
-            "title": "19.Pairs",
+            "title": "Pairs",
             "summary": "The players get into pairs. They must then run around the hall,&hellip;",
             "content_html": "<p><br>The players get into pairs. They must then run around the hall, away from their partners. When the whistle is blown they must find their partner, link arms backwards and sit down (with their arms still linked). The last pair to find each other and sit down are out.<br><br>Suitable for Beavers, Cubs.</p>",
             "author": {
@@ -134,12 +134,12 @@
             "tags": [
             ],
             "date_published": "2024-04-19T14:18:58+01:00",
-            "date_modified": "2024-04-19T14:18:58+01:00"
+            "date_modified": "2025-11-27T16:38:30+00:00"
         },
         {
             "id": "https://www.cubsfun.co.uk/18numbers.html",
             "url": "https://www.cubsfun.co.uk/18numbers.html",
-            "title": "18.Numbers",
+            "title": "Numbers",
             "summary": "The players all run around the hall and when the leader shouts&hellip;",
             "content_html": "<p><br><br>The players all run around the hall and when the leader shouts a number, the players must get into groupings of that number. If players cannot make up a grouping of that number they are out.<br><br>Suitable for Beavers, Cubs.</p>",
             "author": {
@@ -148,7 +148,7 @@
             "tags": [
             ],
             "date_published": "2024-04-19T14:18:45+01:00",
-            "date_modified": "2024-04-19T14:18:45+01:00"
+            "date_modified": "2025-11-27T16:38:34+00:00"
         }
     ]
 }
